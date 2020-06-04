@@ -1,2 +1,2 @@
 # Language-Translator
-Check requirement for info
+![] (images/screen.png)
